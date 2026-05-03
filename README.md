@@ -81,4 +81,30 @@ ARIA is built on the conviction that clinical software for nurses should be desi
 ## License
 
 **Proprietary — All Rights Reserved (subject to change).**
+
+---
+
+## License
+
+This project is released under a custom **proprietary license** — 
+see [LICENSE](LICENSE) for full terms.
+
+Code is publicly visible for transparency and academic review.
+Commercial use, redistribution, modification, or derivative works 
+require prior written permission from the copyright holder.
+
+For licensing inquiries, please reach out via my 
+[GitHub profile](https://github.com/Orouji-Mo7) or 
+[LinkedIn](https://www.linkedin.com/in/mo-orouji-366236144/).
+
+---
+
+⚠️ **Not a certified medical device.** This is an early-stage prototype.
+Must not be used for clinical decision-making, diagnosis, or patient care.
+
+## Author
+
+**Mohammad Orouji**  
+M.Sc. Digital Health Management (in progress, MSH Hamburg)  
+Registered nurse (20+ years) · Software developer (IHK 2025)
 Copyright © 2026 Mohammad Orouji. See [LICENSE](./LICENSE) for details.
