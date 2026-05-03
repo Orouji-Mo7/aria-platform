@@ -72,39 +72,20 @@ Roadmap, certification path (CE Class IIa under MDR), data architecture, and sec
 
 ## Author
 
-**Mohammad Orouji**
-M.Sc. Digital Health Management — MSH Medical School Hamburg
+**Mohammad Orouji**  
+M.Sc. Digital Health Management — MSH Medical School Hamburg  
 Background: Pflegefachkraft (20+ years of clinical practice) · Fachinformatiker für Anwendungsentwicklung (IHK 2025)
 
 ARIA is built on the conviction that clinical software for nurses should be designed by people who have stood at the bedside.
 
-## License
-
-**Proprietary — All Rights Reserved (subject to change).**
-
----
+Connect: [GitHub](https://github.com/Orouji-Mo7) · [LinkedIn](https://www.linkedin.com/in/mo-orouji-366236144/)
 
 ## License
 
-This project is released under a custom **proprietary license** — 
-see [LICENSE](LICENSE) for full terms.
+This project is released under a custom **proprietary license** — see [LICENSE](./LICENSE) for full terms.
 
-Code is publicly visible for transparency and academic review.
-Commercial use, redistribution, modification, or derivative works 
-require prior written permission from the copyright holder.
+Code is publicly visible for transparency and academic review. Commercial use, redistribution, modification, or derivative works require prior written permission from the copyright holder.
 
-For licensing inquiries, please reach out via my 
-[GitHub profile](https://github.com/Orouji-Mo7) or 
-[LinkedIn](https://www.linkedin.com/in/mo-orouji-366236144/).
+Copyright © 2026 Mohammad Orouji. All rights reserved.
 
----
-
-⚠️ **Not a certified medical device.** This is an early-stage prototype.
-Must not be used for clinical decision-making, diagnosis, or patient care.
-
-## Author
-
-**Mohammad Orouji**  
-M.Sc. Digital Health Management (in progress, MSH Hamburg)  
-Registered nurse (20+ years) · Software developer (IHK 2025)
-Copyright © 2026 Mohammad Orouji. See [LICENSE](./LICENSE) for details.
+For licensing inquiries, please reach out via my [GitHub profile](https://github.com/Orouji-Mo7) or [LinkedIn](https://www.linkedin.com/in/mo-orouji-366236144/).
